@@ -12,18 +12,19 @@ body {
     display: block;
     background-color: #fff;
     height: 618px;
-    width: 741px;
+    width: 765px;
     position: relative;
 }
 .ipad-wrap:after {
     position: absolute;
-    top: -142px;
-    left: 25px;
+    top: -157px;
+    left: 37px;
     background-image: url('/atl/src/ipad.png');
-    background-size: 700px 900px;
+/*    background-image: url('/src/ipad.png');*/
+    background-size: 700px 930px;
     display: inline-block;
     width: 700px;
-    height: 900px;
+    height: 930px;
     content:"";
     transform: rotate(-90deg);
     animation: rotate 1.4s ease-in;
