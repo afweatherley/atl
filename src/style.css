@@ -19,7 +19,7 @@ body {
     position: absolute;
     top: -142px;
     left: 25px;
-    background-image: url('src/ipad.png');
+    background-image: url('/src/ipad.png');
     background-size: 700px 900px;
     display: inline-block;
     width: 700px;
